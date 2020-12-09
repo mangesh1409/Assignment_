@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Ajinkya",
+        "Age":"25",
+        "Marks":"80"
+    },
+    {
+        "name":"Krishna",
+        "Age":"23",
+        "Marks":"90"
+    },
+    {
+        "name":"Pruthvi",
+        "Age":"24",
+        "Marks":"120"
+    }
+]
